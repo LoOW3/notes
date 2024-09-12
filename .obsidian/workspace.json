@@ -8,26 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "53ffba95528e1cf0",
+            "id": "9a1cf75a47c0d1e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git.md",
+                "file": "aws/launch marketplaces dev.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9a1cf75a47c0d1e6",
+            "id": "7754c39509aa2d76",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "AWS CLI.md",
-                "mode": "preview",
-                "source": false
+                "file": "Excalidraw/Drawing 2024-09-10 14.08.58.excalidraw.md"
               }
             }
           }
@@ -82,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "83bddb7df6324ffd",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git.md",
+                "file": "Excalidraw/Drawing 2024-09-10 14.08.58.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git.md",
+                "file": "Excalidraw/Drawing 2024-09-10 14.08.58.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git.md"
+                "file": "Excalidraw/Drawing 2024-09-10 14.08.58.excalidraw.md"
               }
             }
           }
@@ -147,22 +146,36 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "callout-manager:Insert Callout": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f91124346ede578a",
+  "active": "8916ea4c261ee295",
   "lastOpenFiles": [
-    "Git.md",
-    "AWS CLI.md",
+    "aws/launch marketplaces dev.md",
+    "Excalidraw/Drawing 2024-09-10 14.08.58.excalidraw.md",
+    "Excalidraw",
+    "aws/AWS CLI.md",
+    "architectures/clean-architecture/1. Clean architecture.md",
+    "Pasted image 20240908233146.png",
+    "aws",
+    "git",
+    "architectures",
+    "git/Git.md",
+    "architectures/clean-architecture",
+    "images/Pasted image 20240902102712.png",
+    "images/Pasted image 20240902102652.png",
     "images/Pasted image 20240823100905.png",
     "images/Pasted image 20240823100901.png",
     "images/git_1.png",
