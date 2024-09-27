@@ -11,9 +11,11 @@
             "id": "81cbe8aaf25dca70",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "java/images/Pasted image 20240925150936.png"
+                "file": "java/7.Collections.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java/images/Pasted image 20240925150936.png",
+                "file": "java/7.Collections.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java/images/Pasted image 20240925150936.png",
+                "file": "java/7.Collections.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java/images/Pasted image 20240925150936.png"
+                "file": "java/7.Collections.md"
               }
             }
           }
@@ -147,12 +149,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8916ea4c261ee295",
+  "active": "81cbe8aaf25dca70",
   "lastOpenFiles": [
+    "Pasted image 20240926235553.png",
+    "java/images/Pasted image 20240926235327.png",
+    "java/images/Pasted image 20240925150936.png",
     "java/7.Collections.md",
     "java/6.Sobreescritura y sobrecarga.md",
     "java/7.Collections",
-    "java/images/Pasted image 20240925150936.png",
     "java/2.POO.md",
     "java/images/Pasted image 20240924234959.png",
     "java/images",
