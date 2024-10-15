@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "41d9828c6e7848b5",
+        "id": "bf51a9e34c2dadc8",
         "type": "tabs",
         "children": [
           {
-            "id": "81cbe8aaf25dca70",
+            "id": "63a09791a0191bac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/7.Collections.md",
+                "file": "java/Spring boot/Modelo multicapas.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "83bddb7df6324ffd",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java/7.Collections.md",
+                "file": "java/Spring boot/Modelo multicapas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java/7.Collections.md",
+                "file": "java/Spring boot/Modelo multicapas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java/7.Collections.md"
+                "file": "java/Spring boot/Modelo multicapas.md"
               }
             }
           }
@@ -149,12 +150,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "81cbe8aaf25dca70",
+  "active": "63a09791a0191bac",
   "lastOpenFiles": [
+    "java/7.Collections.md",
+    "java/Spring boot/Modelo multicapas.md",
+    "java/Spring boot/2. MVC (Modelo Vista Controlador).md",
+    "java/Spring boot/images",
+    "java/Spring boot/images/Pasted image 20241013021448.png",
+    "java/Spring boot/1. Spring boot.md",
+    "java/13. MySQL Connection + Persistence Unit.md",
+    "java/Spring boot",
+    "java/12.JPA.md",
+    "java/14. JPA Controllers.md",
+    "java/11.Generics.md",
+    "java/images/Pasted image 20241004005252.png",
+    "java/10.ENUMS.md",
+    "java/10.Relaciones.md",
+    "java/9.Excepciones.md",
+    "java/images/Pasted image 20240929034723.png",
+    "java/8.Maven.md",
     "Pasted image 20240926235553.png",
     "java/images/Pasted image 20240926235327.png",
     "java/images/Pasted image 20240925150936.png",
-    "java/7.Collections.md",
     "java/6.Sobreescritura y sobrecarga.md",
     "java/7.Collections",
     "java/2.POO.md",
@@ -180,12 +197,6 @@
     "architectures",
     "git/Git.md",
     "architectures/clean-architecture",
-    "images/Pasted image 20240902102712.png",
-    "images/Pasted image 20240902102652.png",
-    "images/Pasted image 20240823100905.png",
-    "images/Pasted image 20240823100901.png",
-    "images/git_1.png",
-    "images",
-    "Welcome.md"
+    "images/Pasted image 20240902102712.png"
   ]
 }
