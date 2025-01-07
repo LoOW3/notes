@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bf51a9e34c2dadc8",
+        "id": "d99878e82743212b",
         "type": "tabs",
         "children": [
           {
-            "id": "63a09791a0191bac",
+            "id": "b516a5f07f4c487f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/Spring boot/Modelo multicapas.md",
-                "mode": "source",
+                "file": "docker/comandos.md",
+                "mode": "preview",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "comandos"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,15 +68,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 447.5
   },
   "right": {
     "id": "83bddb7df6324ffd",
@@ -86,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java/Spring boot/Modelo multicapas.md",
+                "file": "java/Spring boot/Ejercicios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Ejercicios"
             }
           },
           {
@@ -103,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java/Spring boot/Modelo multicapas.md",
+                "file": "java/Spring boot/Ejercicios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Ejercicios"
             }
           },
           {
@@ -117,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -126,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java/Spring boot/Modelo multicapas.md"
-              }
+                "file": "java/Spring boot/Ejercicios.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Ejercicios"
             }
           }
         ],
@@ -147,56 +162,57 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "63a09791a0191bac",
+  "active": "b516a5f07f4c487f",
   "lastOpenFiles": [
-    "java/7.Collections.md",
-    "java/Spring boot/Modelo multicapas.md",
-    "java/Spring boot/2. MVC (Modelo Vista Controlador).md",
-    "java/Spring boot/images",
-    "java/Spring boot/images/Pasted image 20241013021448.png",
-    "java/Spring boot/1. Spring boot.md",
-    "java/13. MySQL Connection + Persistence Unit.md",
-    "java/Spring boot",
+    "docker/Docker.md",
+    "docker/volumenes.md",
+    "docker/Shits.md",
+    "docker/comandos.md",
+    "java/Microservicios/Como crear microservicio en Java.md",
+    "java/Spring boot/Ejercicios.md",
     "java/12.JPA.md",
-    "java/14. JPA Controllers.md",
-    "java/11.Generics.md",
-    "java/images/Pasted image 20241004005252.png",
-    "java/10.ENUMS.md",
-    "java/10.Relaciones.md",
-    "java/9.Excepciones.md",
-    "java/images/Pasted image 20240929034723.png",
-    "java/8.Maven.md",
-    "Pasted image 20240926235553.png",
-    "java/images/Pasted image 20240926235327.png",
-    "java/images/Pasted image 20240925150936.png",
-    "java/6.Sobreescritura y sobrecarga.md",
-    "java/7.Collections",
-    "java/2.POO.md",
-    "java/images/Pasted image 20240924234959.png",
-    "java/images",
-    "java/4.Clases abstractas.md",
-    "java/3.Encapsulamiento.md",
-    "java/5.Interfaces.md",
-    "java/images/Pasted image 20240925001022.png",
-    "java/1.Tipos de datos.md",
-    "Excalidraw/Drawing 2024-09-23 21.09.54.excalidraw.md",
-    "Untitled.md",
+    "Pasted image 20250102105301.png",
+    "images/Pasted image 20241230161848.png",
+    "images/Pasted image 20241230114108.png",
+    "images/Pasted image 20241230111435.png",
+    "images/Pasted image 20241230100643.png",
+    "images/Pasted image 20241230093937.png",
+    "images/Pasted image 20241230092028.png",
+    "images/Pasted image 20241230085350.png",
+    "images/Pasted image 20241229143558.png",
+    "images/Pasted image 20241229143250.png",
     "Excalidraw/Drawing 2024-09-19 13.26.54.excalidraw.md",
-    "aws/launch marketplaces dev.md",
-    "java",
+    "docker",
     "Excalidraw/Drawing 2024-09-10 14.08.58.excalidraw.md",
-    "Excalidraw",
+    "java/Microservicios/Consumiendo microservicios con Feign.md",
+    "images/Recording 20241021132751.webm",
+    "java/Microservicios/Patrones de diseño microservicios/Implementación Load Balancing.md",
+    "java/Microservicios/Patrones de diseño microservicios/Load Balancing.md",
+    "java/Microservicios/Patrones de diseño microservicios/Eureka server.md",
+    "java/Microservicios/Patrones de diseño microservicios/Config server.md",
+    "java/Microservicios/Patrones de diseño microservicios/Circuit Breaker.md",
+    "java/Microservicios/Patrones de diseño microservicios/API Gateway.md",
+    "java/Microservicios/Diferencias entre microservicos vs monolitos.md",
+    "java/Microservicios/Patrones de diseño microservicios/Service Discovery.md",
+    "java/Microservicios/Patrones de diseño microservicios/Service Registry.md",
+    "java/Microservicios/Patrones de diseño microservicios",
+    "java/Microservicios/@ElementCollection y FetchType.md",
+    "java/Microservicios/¿Cómo comunicar dos microservicios?.md",
+    "java/Patrones de diseño/Builder.md",
     "aws/AWS CLI.md",
-    "architectures/clean-architecture/1. Clean architecture.md",
-    "images/Pasted image 20240908233146.png",
-    "aws",
-    "git",
-    "architectures",
-    "git/Git.md",
-    "architectures/clean-architecture",
-    "images/Pasted image 20240902102712.png"
+    "java/Microservicios",
+    "java/Patrones de diseño/Prototype.md",
+    "java/Patrones de diseño/Singleton.md",
+    "Recording 20241021132751.webm",
+    "java/Spring boot/Patrones.md",
+    "java/Patrones de diseño",
+    "java/Spring boot/images",
+    "java/Spring boot",
+    "java/7.Collections",
+    "java/images"
   ]
 }

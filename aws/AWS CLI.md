@@ -128,3 +128,24 @@ aws dynamodb update-continuous-backups \
 --point-in-time-recovery-specification PointInTimeRecoveryEnabled=true
 ```
 
+
+# Borrar todos los usuarios de una pool de cognito
+
+```bash
+#!/bin/bash
+
+USER_POOL_ID=""  
+PROFILE_NAME="aws profile"    
+
+
+USERNAMES=$(aws cognito-idp list-users --user-pool-id $USER_POOL_ID --query "Users[*].Username" --output text --profile $PROFILE_NAME)
+
+
+for USERNAME in $USERNAMES
+do
+  echo "eliminando usaurio -- $USERNAME"
+  aws cognito-idp admin-delete-user --user-pool-id $USER_POOL_ID --username $USERNAME --profile $PROFILE_NAME
+done
+
+echo "Todos los users eliminados rey"
+```

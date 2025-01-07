@@ -16,3 +16,25 @@ en dto esta el modelado de como queremos devolver la informacion en la response,
 En model estan las clases (ej persona, propiedad, barrio, etc)
 
 En controller esta el controlador que permite la interaccion con el API.
+
+
+# Injecciones
+
+teniendo
+```
+repository/
+service/
+controller/
+```
+
+en service se injecta con 
+```
+@Autowired
+private IPersonaReposity pR;
+```
+
+y en el controller se injecta el interface del service
+```
+@Autowired
+private IPersonaService pS;
+```
